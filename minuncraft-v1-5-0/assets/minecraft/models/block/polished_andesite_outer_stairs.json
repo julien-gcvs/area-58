@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:block/seamless_outer_stairs",
+	"textures": {
+			"solid": "block/polished_andesite",
+			"vertical": "block/polished_andesite_double_slab_vertical",
+			"horizontal": "block/polished_andesite_double_slab",
+			"side_l": "block/polished_andesite_stairs_l",
+			"side_r": "block/polished_andesite_stairs_r",
+			"tiles": "block/polished_andesite_tiles"
+	}
+}

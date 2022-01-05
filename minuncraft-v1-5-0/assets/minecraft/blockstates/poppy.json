@@ -1,0 +1,19 @@
+{
+	"variants": {
+		"": [
+			{"model": "minecraft:block/poppy"},
+			{"model": "minecraft:block/poppy2"},
+			{"model": "minecraft:block/poppy3"},
+			{"model": "minecraft:block/poppy4"},
+			{"model": "minecraft:block/poppy5"},
+			{"model": "minecraft:block/poppy6"},
+			{"model": "minecraft:block/poppy7"},
+			{"model": "minecraft:block/poppy8"},
+			{"model": "minecraft:block/poppy9"},
+			{"model": "minecraft:block/poppy10"},
+			{"model": "minecraft:block/poppy11"},
+			{"model": "minecraft:block/poppy12"},
+			{"model": "minecraft:block/poppy13"}
+		]
+	}
+}

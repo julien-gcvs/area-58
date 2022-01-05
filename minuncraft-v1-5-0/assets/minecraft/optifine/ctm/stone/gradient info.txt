@@ -1,0 +1,1 @@
+Each colour lighter is an increase or decrease of 5 using paint.net's hue/saturation

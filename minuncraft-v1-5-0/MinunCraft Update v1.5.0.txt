@@ -1,0 +1,465 @@
+-Additions--------------
+-Items---
+- Amber Phaserblade
+- Amberphaser
+- Armourslayer
+- Axolotl Totem
+- Bean Taco
+- Boston Cream Doughnut
+- Caramel
+- Celery
+- Cheese
+- Cherry Pie
+- Chocolate Doughnut
+- Chocolate Iced Doughnut
+- DNA
+- Date
+- Doughnut
+- Electric Bow
+- Enchilada
+- Energy Sword
+- Foul Soap
+- Gameboy
+- Golden Turnip
+- Iridium Axe
+- Iridium Needle
+- Iridium Pickaxe
+- Jagged Fuchsia Shovel
+- Large Turnip
+- Mint Chocolate Ice Cream
+- Muesli Bar
+- Papaya
+- Powder Doughnut
+- Reinforced Fishing Pole
+- Strawberry Iced Doughnut
+- Stygian Blade
+- Sugar Doughnut
+- Taco
+- Tanned Leather Boots
+- Tomato
+- Transrite Sword
+- Turnip
+- Unwrapped Muesli Bar
+- Vampiric Blade
+- Vampiric Sword
+Fireworks
+- Brown Firework
+- Fuse 50 Firework
+- Gold Firework
+- Green and Gold Firework
+- Lesbian Firework
+- Trans Firework
+Nintendo Switches
+- Blue-Yellow Nintendo Switch
+- Docked Blue-Yellow Nintendo Switch
+- Docked Green Nintendo Switch
+- Docked Grey Nintendo Switch
+- Docked Nintendo Switch
+- Docked Pink-Green Nintendo Switch
+- Docked Pink-Green Nintendo Switch
+- Docked Purple-Orange Nintendo Switch
+- Docked Purple-Orange Nintendo Switch
+- Docked Yellow Nintendo Switch
+- Docked Yellow Nintendo Switch
+- Green Nintendo Switch
+- Grey Nintendo Switch
+- Nintendo Switch
+- Nintendo Switch Dock
+
+-Shields-
+- Berber Flag Shield
+- Bonaire Flag Shield
+- Christmas Island Flag Shield
+- Cocos Keeling Islands Flag Shield
+- Gilded Great Britan Flag Shield
+- Glacial Shield
+- Hypergay Shield
+- Norfolk Island Flag Shield
+- Palau Flag Shield
+- Palenstine Flag Shield
+- Romani Flag Shield
+- Sami Flag Shield
+- San Marino Flag Shield
+- Scotland Flag Shield
+- Yurilily Jack
+
+-Armour--
+- Gold Flower Crown
+- Migrator Boots
+- Migrator Chestplate
+- Migrator Helmet
+- Migrator Leggings
+- Orion Melia Breastplate
+- Orion Melia Helmet
+- Pansexual Flower Crown
+- Stone Grey H
+- Stone Grey S
+- Wasteland S
+- Yellow Flower Crown
+- Yurilily Queen Belt
+- Yurilily Queen Boots
+- Yurilily Queen Breastplate
+- Yurilily Queen Crown
+- Yurilily Queen Heels
+- Yurilily Queen Helmet
+- Yurilily Queen Leggings
+- Yurilily Queen Shoulder Pads
+
+-Mobs---
+ Parrot
+- Carnabys Black Cockatoo
+- Gang-gang Cockatoo
+- Great Green Macaw
+- Great Green Macaw
+- Green-Cheeked Parakeet
+- Grey-headed Lovebird (F)
+- Grey-headed Lovebird (F)
+- Grey-headed Lovebird (M)
+- Grey-headed Lovebird (M)
+- Major Mitchells Cockatoo
+- Pale-headed Rosella
+- Pesquets Parrot
+- Red-Collared Lorikeet
+- Red-Collared Lorikeet
+- Red-Shouldered Macaw
+- Rose-Ringed Parakeet
+- Rose-Ringed Parakeet
+- Timneh Parrot
+- Timneh Parrot
+- Torquoise Rose-Ringed Parakeet
+- Ultramarine Lorikeet
+- White Cockatoo
+- Yellow Eared Parrot
+- Yellow-Eared Parrot
+- Yellow-tailed Black Cockatoo
+ Shulker
+- Shulker
+- Black Shulker
+- Blue Shulker
+- Brown Shulker
+- Cyan Shulker
+- Gray Shulker
+- Green Shulker
+- Light Blue Shulker
+- Light Gray Shulker
+- Lime Shulker
+- Magenta Shulker
+- Orange Shulker
+- Pink Shulker
+- Purple Shulker
+- Red Shulker
+- White Shulker
+- Yellow Shulker
+Pig
+- Judgemental Piggy
+
+
+-Changes----------------
+-Items---
+Full Retextures
+- Anchor Pickaxe
+- Ancient Bladesaw
+- Blade Lance
+- Green Excel Lance
+- Helicopter Propeller
+- Life Ender
+- Red Glove
+- Sirfetchd Longsword
+- Sirfetchd Sword
+- Zora Sword
+
+Full/Major Reshading
+- Antlion Digging Claws
+- Arkhalis
+- Barbed Rapier
+- Barbed Sword
+- Blue Holy Sword
+- Clatter Bow
+- Clatter Spear
+- Clatter Sword
+- Clatterbone Longsword
+- Fire Coral Blade
+- Fire Coral Greatsword
+- Fragmented Shadow
+- Gold Holy Sword
+- Grim Flayer
+- Horn Coral Blade
+- Horn Coral Greatsword
+- Jacaranda Barbed Sword
+- Marco Dimensional Scissors
+- Pickaxe of the Emerald Temple
+- Tube Coral Blade
+- Tube Coral Greatsword
+Fireworks
+- Black Firework
+- Blue Firework
+- Cyan Firework
+- Fuse 1 Firework
+- Fuse 10 Firework
+- Fuse 15 Firework
+- Fuse 2 Firework
+- Fuse 20 Firework
+- Fuse 3 Firework
+- Fuse 4 Firework
+- Fuse 5 Firework
+- Fuse 6 Firework
+- Fuse 7 Firework
+- Fuse 8 Firework
+- Fuse 9 Firework
+- Green Firework
+- Grey Firework
+- Light Blue Firework
+- Lime Firework
+- Magenta Firework
+- Orange Firework
+- Pink Firework
+- Purple Firework
+- Violet Firework
+- White Firework
+
+Minor Edits
+- Aerial Battleaxe
+- Aerial Hamaxe
+- Firelight Blazesword
+- Greatbay Pickaxe
+- Greentide
+- Huskstalk Bow
+- PS Vita
+- Redtide Sword
+- Reefclaw Hamaxe
+- Riptide Battleaxe
+
+-Shields-
+Full Retexture
+- Afghanistan Flag Shield
+- Albania Flag Shield
+- Algeria Flag Shield
+- Angola Flag Shield
+- Antigua and Barbuda Flag Shield
+- Argentina Flag Shield
+- Armenia Flag Shield
+- Artsakh Flag Shield
+- Asexual Pride Flag Shield
+- Australia Flag Shield
+- Australian Aboriginal Flag Shield
+- Austria Flag Shield
+- Azerbaijan Flag Shield
+- Bahamas Flag Shield
+- Bahrain Flag Shield
+- Bangladesh Flag Shield
+- Barbados Flag Shield
+- Belgium Flag Shield
+- Belize Flag Shield
+- Benelux Flag Shield
+- Benin Flag Shield
+- Bhutan Flag Shield
+- Bisexual Pride Flag Shield
+- Blank Pattern Shield
+- Bolivia Flag Shield
+- Bosnia and Herzegovina Flag Shield
+- Botswanna Flag Shield
+- Brazil Flag Shield
+- Brunei Flag Shield
+- Bulgaria Flag Shield
+- Burkina Faso Flag Shield
+- Burundi  Flag Shield
+- Cambodia Flag Shield
+- Cameroon Flag Shield
+- Canada Flag Shield
+- Cape Verde Flag Shield
+- Central African Republic Flag Shield
+- Chad Flag Shield
+- Colombia Flag Shield
+- Croatia Flag Shield
+- Cuba Flag Shield
+- Cyprus Flag Shield
+- Czech Republic Flag Shield
+- Democratic Republic of the Congo Flag Shield
+- Denmark Flag Shield
+- Djibouti Flag Shield
+- Dominica Flag Shield
+- Dominican Republic
+- East Timor Flag Shield
+- Ecuador Flag Shield
+- Egypt Flag Shield
+- England Flag Shield
+- Eritrea Flag Shield
+- Estonia Flag Shield
+- Eswatini Flag Shield
+- Fiji Flag Shield
+- France Flag Shield
+- French Polynesia Flag Shield
+- Gabon Flag Shield
+- Georgia Flag Shield
+- Germany Flag Shield
+- Ghana Flag Shield
+- Greece Flag Shield
+- Greenland Flag Shield
+- Grenada Flag Shield
+- Guatemala Flag Shield
+- Guinea Flag Shield
+- Guinea-Bissau Flag Shield
+- Guyana Flag Shield
+- Haiti Flag Shield
+- Honduras Flag Shield
+- Hungary Flag Shield
+- Iceland Flag Shield
+- India Flag Shield
+- Indonesia Flag Shield
+- Intersex Pride Flag Shield
+- Iran Flag Shield
+- Iraq Flag Shield
+- Ireland Flag Shield
+- Israel Flag Shield
+- Italy Flag Shield
+- Jamaica Flag Shield
+- Japan Flag Shield
+- Jordan Flag Shield
+- Kazakhstan Flag Shield
+- Kenya Flag Shield
+- Kiribatai Flag Shield
+- Kosovo Flag Shield
+- Kuwait Flag Shield
+- Kyrgyzstan Flag Shield
+- Laser Kiwi Flag Shield
+- Latvia Flag Shield
+- Lebanon Flag Shield
+- Lesbian Pride Flag Shield
+- Lesotho Flag Shield
+- Liberia Flag Shield
+- Libya Flag Shield
+- Lithuania Flag Shield
+- Luxembourg Flag Shield
+- Macau Flag Shield
+- Macedonia Flag Shield
+- Madagascar Flag Shield
+- Malawi Flag Shield
+- Maldives Flag Shield
+- Malta Flag Shield
+- Marshall Islands Flag Shield
+- Mauritania Flag Shield
+- Mauritius Flag Shield
+- Mauritius Flag Shield
+- Mauritius Flag Shield
+- Mexico Flag Shield
+- Mirconesia Flag Shield
+- Monaco Flag Shield
+- Mongolia Flag Shield
+- Montenegro Flag Shield
+- Mozambique  Flag Shield
+- Myanmar Flag Shield
+- Namibia Flag Shield
+- Netherlands Flag Shield
+- New Caledonia Flag Shield
+- New Zealand Flag Shield
+- Nicaragua Flag Shield
+- Niger Flag Shield
+- Nigeria Flag Shield
+- Nonbinary Pride Flag Shield
+- Norway Flag Shield
+- Oman Flag Shield
+- PRC Flag Shield
+- Pakistan Flag Shield
+- Panama Flag Shield
+- Pansexual Pride Flag Shield
+- Papua New Guinea Flag Shield
+- Paraguay Flag Shield
+- Peru Flag Shield
+- Poland Flag Shield
+- Polyamory Pride Flag Shield
+- Portugal Flag Shield
+- Qatar Flag Shield
+- ROC Flag Shield
+- Republic of the Congo Flag Shield
+- Romania Flag Shield
+- Russia Flag Shield
+- Rwanda Flag Shield
+- Saint Kitts and Nevis Flag Shield
+- Saint Lucia Flag Shield
+- Saint Vincent and the Grenadines Flag Shield
+- Samoa Flag Shield
+- Sao Tome and Principe Flag Shield
+- Saudi Arabia Flag Shield
+- Seychelles Flag Shield
+- Sierra Leone Flag Shield
+- Singapore Flag Shield
+- Sint Maarten Flag Shield
+- Slovakia Flag Shield
+- Slovenia Flag Shield
+- Somalia Flag Shield
+- Somaliland Flag Shield
+- South Africa Flag Shield
+- South Korea Flag Shield
+- South Ossetia Flag Shield
+- South Sudan Flag Shield
+- Spain Flag Shield
+- Sri Lanka Flag Shield
+- Sudan Flag Shield
+- Suriname Flag Shield
+- Sweden Flag Shield
+- Switzerland Flag Shield
+- Syria Flag Shield
+- Tajikistan Flag Shield
+- Tanzania Flag Shield
+- Thailand Flag Shield
+- The Gambia Flag Shield
+- Tino Rangariratanga Shield
+- Togo Flag Shield
+- Tonga Flag Shield
+- Transnistria Flag Shield
+- Trinidad and Tobago Flag Shield
+- Tunisia Flag Shield
+- Turkey Flag Shield
+- Turkmenistan Flag Shield
+- Tuvalu Flag Shield
+- UAE Flag Shield
+- UK Flag Shield
+- USA Flag Shield
+- Uganda Flag Shield
+- Ukraine Flag Shield
+- Uruguay Flag Shield
+- Uzbekistan Flag Shield
+- Western Sahara Flag Shield
+- Yemen Flag Shield
+- Zambia Flag Shield
+- Zimbabwe Flag Shield
+
+-Mobs---
+Major Retextures
+ Parrot
+- African Grey Parrot
+- Australian King Parrot (F)
+- Australian King Parrot (M)
+- Blue Lorikeet
+- Blue Parrot / Hyacinth Macaw
+- Blue-and-Yellow Macaw / Yellow-Blue Parrot
+- Blue-throated Macaw
+- Cockatiel / Grey Parrot
+- Galah
+- Golden Parakeet
+- Golden-Collared Macaw
+- Great Green Macaw
+- Indigo Macaw
+- Military Macaw / Green Parrot
+- Moluccan King Parrot
+- Papuan King Parrot
+- Pohnpei Lorikeet
+- Polly
+- Pukeko
+- Rainbow Lorikeet
+- Rainbow Lorikeet
+- Red-and-Green Macaw
+- Scarlet Macaw / Red-Blue Parrot
+- Sulpher-Crested Cockatoo
+Minor Retextures
+- Cinders
+- Cheburashka
+
+
+-Blocks-
+Removed emissive ores
+Following blocks no longer depend on Optifine's CTM and have been retextured.
+- Blue Orchid
+- Grass
+- Lily Pad
+- Poppy
