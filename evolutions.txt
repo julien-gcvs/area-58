@@ -1,0 +1,20 @@
+wildflame - wildfire - wildblaze
+Silver Angel Halo - Gold Angel Halo - Pure Angel Halo
+
+
+
+
+
+
+
+
+
+Notes :
+Check les gui/loading/background
+check les cit/default item vit
+check les books
+check les angel bangle (ajouter pure ?)
+
+
+datapack:
+ - ajouter un moyen de colorer les armure couleur Saturées FULL
