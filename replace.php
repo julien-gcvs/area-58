@@ -52,10 +52,10 @@ foreach ($paths as $k => $path)
         $file2 = '';
         foreach ($lines as $line)
         {
-            if (str_starts_with('nbt.display.Name'))
+            if (str_starts_with($line, 'nbt.display.Name'))
             {
                 $line2 = str_replace('nbt.display.Name=','',$line);
-                if (str_starts_with('iregex:('))
+                if (str_starts_with($line2, 'iregex:('))
                 {
                     $line2 = str_replace('iregex:(','',$line2);
                     $line2 = str_replace(')','',$line2);
