@@ -79,7 +79,9 @@ foreach ($paths as $k => $path)
         if ($file2)
         {
             file_put_contents($path,$file2);
-            echo json_encode($names);
         }
     }
 }
+
+echo json_encode($names);
+
