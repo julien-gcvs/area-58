@@ -43,7 +43,8 @@ foreach ($paths as $k => $path)
 {
     if (!is_dir($path) && str_ends_with($path, '.properties'))
     {
-        $pathname = end(explode('/',$path));
+        $e = explode('/',$path);
+        $pathname = end($e);
         // read the file
         $file = file_get_contents($path);
         // replace the data
@@ -61,6 +62,7 @@ foreach ($paths as $k => $path)
                 }
                 $line2 = explode('|', $line2);
                 $line2 = $line2[0];
+                $names[$pathname] = $line2;
                 $line = 'nbt.nbrData.skinName=' . str_replace(' ','_',$line2);
             }
             $file2.=$line;
@@ -77,6 +79,7 @@ foreach ($paths as $k => $path)
         if ($file2)
         {
             file_put_contents($path,$file2);
+            echo json_encode($names);
         }
     }
 }
