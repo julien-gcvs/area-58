@@ -61,12 +61,8 @@ foreach ($paths as $k => $path)
                 }
                 $line2 = explode('|', $line2);
                 $line2 = $line2[0];
+                $line = 'nbt.nbrData.skinName=' . str_replace(' ','_',$line2);
             }
-            $line = 'nbt.nbrData.skinName' .
-            $line = str_replace('iregex:(','',$line);
-            $line = str_replace(')','',$line);
-            $line = str_replace(' ','_',$line);
-
             $file2.=$line;
         }
 
