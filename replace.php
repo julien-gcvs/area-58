@@ -50,8 +50,13 @@ foreach ($paths as $k => $path)
         // replace the data
         $lines = explode("\n", $file);
         $file2 = '';
+        $items = '';
         foreach ($lines as $line)
         {
+            if (str_starts_with($line, 'matchItems'))
+            {
+                $items = str_replace('matchItems=','',$line);
+            }
             if (str_starts_with($line, 'nbt.display.Name'))
             {
                 $line2 = str_replace('nbt.display.Name=','',$line);
@@ -62,10 +67,13 @@ foreach ($paths as $k => $path)
                 }
                 $line2 = explode('|', $line2);
                 $line2 = $line2[0];
-                $names[$pathname] = str_replace(' ','_',$line2);
+                $names[$pathname] = [
+                    str_replace(' ','_',$line2),
+                    explode(' ',$items)
+                ];
                 $line = 'nbt.nbrData.skinName=' . str_replace(' ','_',$line2);
             }
-            $file2.=$line;
+            $file2.=$line.PHP_EOL;
         }
 
 
