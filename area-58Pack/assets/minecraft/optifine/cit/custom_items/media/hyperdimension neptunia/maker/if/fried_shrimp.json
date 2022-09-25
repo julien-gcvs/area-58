@@ -1,0 +1,71 @@
+{
+	"credit": "Gauntlet model made by MinecraftMinun with Blockbench",
+	"textures": {
+		"particle": "./fried_shrimp",
+		"texture": "./fried_shrimp"
+	},
+	"elements": [
+		{
+			"name": "Gauntlet",
+			"from": [5, 0, 5],
+			"to": [11, 8, 11],
+			"faces": {
+				"north": {"uv": [9, 6, 12, 14], "texture": "#texture"},
+				"east": {"uv": [6, 6, 9, 14], "texture": "#texture"},
+				"south": {"uv": [3, 6, 6, 14], "texture": "#texture"},
+				"west": {"uv": [0, 6, 3, 14], "texture": "#texture"},
+				"up": {"uv": [3, 0, 6, 6], "texture": "#texture"},
+				"down": {"uv": [6, 0, 9, 6], "texture": "#texture"}
+			}
+		},
+		{
+			"name": "Claws",
+			"from": [4.5, 7, 10],
+			"to": [11.5, 13, 10.001],
+			"faces": {
+				"north": {"uv": [12, 6, 15.5, 12], "texture": "#texture"},
+				"south": {"uv": [12, 6, 15.5, 12], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [-90, 90, 0],
+			"translation": [0, -2, -2],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-90, 90, 0],
+			"translation": [0, -2, -2],
+			"scale": [0.9, 0.9, 0.9]
+		},
+		"firstperson_righthand": {
+			"rotation": [-45, 20, 0],
+			"translation": [-3, 5, 1],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-45, 20, 0],
+			"translation": [-3, 5, 1],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"ground": {
+			"translation": [-1, 3, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"gui": {
+			"rotation": [0, -45, -45],
+			"translation": [3, 4.5, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 9.5, -3.25]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 5, 0],
+			"scale": [1.25, 1.25, 1.25]
+		}
+	}
+}
