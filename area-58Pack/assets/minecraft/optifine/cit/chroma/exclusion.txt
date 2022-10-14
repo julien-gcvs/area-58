@@ -3,3 +3,5 @@ blue - eckesach
 
 fyrite bow
 supprimer les blande lance ?
+
+red - true rancoeur
