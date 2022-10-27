@@ -1,0 +1,11 @@
+{
+    "parent": "./liberator_shield",
+    "overrides": [
+        {
+            "predicate": {
+                "blocking": 1
+            },
+            "model": "./liberator_shield_blocking"
+        }
+    ]
+}
